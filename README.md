@@ -1,4 +1,4 @@
-## GitHub Repo. 연습
+## GitHub Repo. 연습2
 ---
 - Push & Pull
 - Pull Request
